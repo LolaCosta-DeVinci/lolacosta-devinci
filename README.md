@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LolaCosta-DeVinci)](https://github.com/LolaCosta-DeVinci/github-readme-stats)
 
-[![LolaCosta-DeVinci's GitHub stats](https://github-readme-stats.vercel.app/api?username=LolaCosta-DeVinci&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/LolaCosta-DeVinci/github-readme-stats)
+
+[![LolaCosta-DeVinci's GitHub stats](https://github-readme-stats.vercel.app/api?username=LolaCosta-DeVinci&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/LolaCosta-DeVinci/github-readme-stats)
